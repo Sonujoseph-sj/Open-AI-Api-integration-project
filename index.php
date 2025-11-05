@@ -2,7 +2,7 @@
 // hi there
 include('inc/header4.php');
 ?>
-<title>MovieMaven</title>
+<title>Moviebuzz</title>
 <!-- fgfhjhfjfki -->
 <div class="container-fluid p-0 m-0">
 	<div class="titlediv px-5 py-2">
