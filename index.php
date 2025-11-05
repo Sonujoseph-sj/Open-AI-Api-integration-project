@@ -1,5 +1,5 @@
 <?php
-
+// hi there
 include('inc/header4.php');
 ?>
 <title>MovieMaven</title>
