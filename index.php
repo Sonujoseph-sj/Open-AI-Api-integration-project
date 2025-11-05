@@ -51,7 +51,7 @@ include('inc/header4.php');
 							<label for="radio2">Series</label>
 						  </div>
 						  
-						  
+						  <!-- it is another comment -->
 					</div>
 				</div>					
 				<input type="submit" value="Submit" class="btn anim">
